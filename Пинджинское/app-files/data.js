@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0--",
-      "name": "Пинджинское НГКМ",
+      "name": "Пинджинское НМ",
       "levels": [
         {
           "tileSize": 256,
@@ -45,7 +45,7 @@ var APP_DATA = {
       ]
     }
   ],
-  "name": "Пинджинское НГКМ",
+  "name": "Пинджинское НМ",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
