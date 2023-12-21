@@ -784,7 +784,7 @@ var APP_DATA = {
     },
     {
       "id": "8-",
-      "name": "УКПГиК",
+      "name": "ГКС",
       "levels": [
         {
           "tileSize": 256,
