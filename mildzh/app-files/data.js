@@ -1203,7 +1203,7 @@ var APP_DATA = {
     },
     {
       "id": "12--",
-      "name": "Трубная база",
+      "name": "База ЛЭС",
       "levels": [
         {
           "tileSize": 256,
