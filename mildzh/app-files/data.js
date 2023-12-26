@@ -112,7 +112,7 @@ var APP_DATA = {
         {
           "yaw": -2.8151267212526125,
           "pitch": 0.666233800592817,
-          "title": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"64\" style=\"width: 48pt;\"><tbody><tr height=\"20\" style=\"height:15.0pt\">\n  <td height=\"20\" width=\"64\" style=\"height:15.0pt;width:48pt\">Блок охлаждения газа</td></tr></tbody></table>",
+          "title": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"64\" style=\"width: 48pt;\"><tbody><tr height=\"20\" style=\"height:15.0pt\">\n  <td height=\"20\" width=\"64\" style=\"height:15.0pt;width:48pt\">Блок охлаждения газа (турбодетандер-компрессорный агрегат)</td></tr></tbody></table>",
           "text": "Text"
         },
         {
