@@ -94,7 +94,7 @@ var APP_DATA = {
     },
     {
       "id": "1--",
-      "name": "УКПГиК (завод)",
+      "name": "УКПГиК",
       "levels": [
         {
           "tileSize": 256,
